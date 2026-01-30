@@ -1,0 +1,13 @@
+1. Why version Control exists: The pendrive problem --> https://problemsbeforeversioncontrol.hashnode.dev/why-version-control-exists-the-pendrive-problem
+2. Git for Beginners: Basics and Essential Commands --> https://beginnersgitguide.hashnode.dev/git-for-beginners-basics-and-essential-commands
+3. Inside Git: How It Works And The Role Of The .git Folder --> https://beginnersgitguide.hashnode.dev/inside-git-how-it-works-and-the-role-of-the-git-folder
+4. DNS Record Types Explained --> https://basicsofcomputernetworking.hashnode.dev/dns-record-types-explained
+5. TCP vs UDP: When to Use What, and How TCP Relates to HTTP --> https://basicsofcomputernetworking.hashnode.dev/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http
+6. Getting Started With cURL --> https://problemsbeforeversioncontrol.hashnode.dev/getting-started-with-curl
+7. Understanding Network Devices --> https://basicsofcomputernetworking.hashnode.dev/understanding-network-devices
+8. How DNS Resolution Works --> https://basicsofcomputernetworking.hashnode.dev/how-dns-resolution-works
+9. TCP Working: 3-Way Handshake & Reliable Communication --> https://basicsofcomputernetworking.hashnode.dev/tcp-working-3-way-handshake-and-reliable-communication
+10. How A Browser Works: A Beginner-Friendly Guide To Browser Internals --> https://browserhtmlandcss.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals
+11. Understanding HTML Tags And Elements --> https://browserhtmlandcss.hashnode.dev/understanding-html-tags-and-elements
+12. CSS Selectors 101: Targeting Elements With Precision --> https://browserhtmlandcss.hashnode.dev/css-selectors-101-targeting-elements-with-precision
+13. Emmet For HTML: A Beginner's Guide To Writing Faster Markup --> https://browserhtmlandcss.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup
